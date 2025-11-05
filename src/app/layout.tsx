@@ -7,7 +7,7 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "NextApp - สร้างอนาคตด้วยเทคโนโลยี",
+  title: "NextApp",
   description: "แพลตฟอร์มที่ทรงพลังสำหรับการพัฒนาเว็บแอปพลิเคชันสมัยใหม่ ด้วย Next.js และ TypeScript",
   keywords: ["Next.js", "TypeScript", "Web Development", "React"],
 };
